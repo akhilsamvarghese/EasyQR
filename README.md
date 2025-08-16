@@ -12,9 +12,9 @@
 # 1. Install deps
 pip install qrcode pillow pandas
 
-# 2. Clone or copy the two files
-qrcode_generator.py
-my_links.csv   # optional – any CSV you like
+# 2. Clone or copy the files
+easyqr.py
+
 
 # 3. Run
 python3 easyqr.py                    # interactive mode
