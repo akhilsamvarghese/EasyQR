@@ -1,8 +1,9 @@
 
 ## **EasyQR** – a tiny, self-contained Python utility that
 
-1. **Interactively** creates one QR code at a time, *or*  
-2. **In batch** creates one QR code **per row** in any CSV file you supply.
+1.	Interactive mode → Create a single QR code from user input.
+2.	Batch mode → Generate one QR code per row in a CSV file.
+3.	Image embedding → Optionally place a logo or image in the center of the QR code.
 
 ---
 
